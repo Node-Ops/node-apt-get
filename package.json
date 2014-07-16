@@ -1,0 +1,19 @@
+{
+  "name": "node-apt-get",
+  "version": "0.0.1",
+  "description": "An apt-get wrapper for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apt-get",
+    "debian",
+    "ubuntu"
+  ],
+  "author": "Wes Todd",
+  "license": "ISC",
+  "dependencies": {
+    "camel-case": "^0.1.0"
+  }
+}
