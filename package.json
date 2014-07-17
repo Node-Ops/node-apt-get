@@ -1,6 +1,6 @@
 {
   "name": "node-apt-get",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An apt-get wrapper for node",
   "main": "index.js",
   "scripts": {

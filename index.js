@@ -90,7 +90,6 @@ var addOption = function(optsArr, name, value) {
 var spawn = function(command, options) {
 	options = options || [];
 	options.unshift(command);
-	console.log(apt.command, options.join(' '));
 	return childProcess.spawn(apt.command, options, apt.spawnOptions);
 };
 
